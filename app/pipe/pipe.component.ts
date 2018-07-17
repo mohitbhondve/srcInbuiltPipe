@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PipeComponent implements OnInit 
 {
-  name = "Marvellous Infosystems";
+  name = "Mohit Bhondve";
   today = new Date();
   no = 32.389;
 
@@ -15,7 +15,7 @@ export class PipeComponent implements OnInit
 
   public Institute = 
   {
-    "Name" : "Marvellous",
+    "Name" : "Mohit",
     "Location" : "Pune"
   }
 
